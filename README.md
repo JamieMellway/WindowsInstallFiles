@@ -1,6 +1,8 @@
 WindowsInstallFiles
 ===================
 
+Note: I'm now using Chocolaty Nuget to help with installs and that script installs many of the applications listed.  After running that script, install winamp, Office, Visual Studio SQL Server, Visio, damn NFO viewer, various Mycroft search engines, dfolder, unlocker, rapt, magic iso, and nero.
+
 Typical install order starts off Microsoft products (from Microsoft Action Pack Subscription): Windows, Security Essentials, Office, Visual Studio, SQL Server, Visio
 
 Interlaced with those are some essential utilities: winamp, 7zip, damn NFO viewer, DaemonTools lite, and Firefox*.  
